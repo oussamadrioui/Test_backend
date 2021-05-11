@@ -1,0 +1,10 @@
+*** This is web application to do list 
+
+    - using : PHP - Boostrap - Mysql - Phpmyadmin
+
+
+*** You can Add tasks
+*** Check tasks completed
+*** Delete tasks
+*** Update tasks 
+*** db connexion 
